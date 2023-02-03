@@ -1,7 +1,6 @@
 
 //Abang pilih yg mna tong hilap kasih credits
 //jangan lupa kasih credits
-//join gc https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff
 //owner wa.me/6283863727733
 // NAMA SESSIONS NYAA "session.data.json"
 
@@ -70,7 +69,7 @@ global.limitawal = {
 
 global.readMore = readMore
 global.author = 'Iman' //ganti aja cuyyy
-global.namebot = ''Noar-Md' //nama bot luh
+global.namebot = 'Noar-Md' //nama bot luh
 global.wm = '© Noar-Md' //ganti aja
 global.media = 'https://telegra.ph/Yuto-02-02' //bebas
 global.wm = 'Noar-Md ' //wm nyaa kocak
