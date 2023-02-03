@@ -1,7 +1,7 @@
 
 //Abang pilih yg mna tong hilap kasih credits
 //jangan lupa kasih credits
-//owner wa.me/6283863727733
+//owner wa.me/628970706704
 // NAMA SESSIONS NYAA "session.data.json"
 
 import { watchFile, unwatchFile } from 'fs'
